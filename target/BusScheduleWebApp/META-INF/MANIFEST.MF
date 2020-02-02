@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: ashra
+Build-Jdk: 12.0.2
+Main-Class: Program
+
